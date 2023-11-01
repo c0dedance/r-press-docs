@@ -1,0 +1,15 @@
+{
+  "name": "r-press-docs",
+  "scripts": {
+    "dev": "r-press-local dev docs",
+    "build": "r-press-local build docs",
+    "dev:npm": "r-press dev docs",
+    "build:npm": "r-press build docs"
+  },
+  "devDependencies": {
+    "sass": "1.69.4"
+  },
+  "dependencies": {
+    "r-press": "^0.0.3"
+  }
+}
